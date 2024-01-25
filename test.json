@@ -1,0 +1,78 @@
+[
+    {
+        "context": "Automator AI stands as a no-code automation tool, empowering users to formulate test prompts in plain English. The tool's functionality lies in its adept utilization of natural language processing and automation technology, seamlessly converting these plain English test prompts into automated test scripts. This streamlined process is followed by the execution of these scripts, with the results presented in a clear format featuring pass/fail icons. The underlying principle of Automator AI revolves around automating the automation testing process, providing users with an intuitive and efficient means of conducting tests.",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is Automator AI?",
+                "answers": [
+                    {
+                        "text": "Automator AI is a no-code automation tool that allows users to write test prompts in plain English. It automates the automation testing process, providing pass/fail results with ease.",
+                        "answer_start": 0
+                    },
+                    {
+                        "text": "Automator AI stands as a no-code automation tool, empowering users to formulate test prompts in plain English.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "How does Automator AI work?",
+                "answers": [
+                    {
+                        "text": "The tool's functionality lies in it adept utilization of natural language processing and automation technology to convert plain English test prompts into automated test scripts. It then executes these scripts and displays results with pass/fail icons.",
+                        "answer_start": 111
+                    },
+                    {
+                        "text": "The tool's functionality lies in its adept utilization of natural language processing and automation technology, seamlessly converting these plain English test prompts into automated test scripts. This streamlined process is followed by the execution of these scripts, with the results presented in a clear format featuring pass/fail icons.",
+                        "answer_start": 111
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Key benefits accompany the integration of Automator AI into the testing process, including simplified automation testing, a diminished reliance on coding, heightened testing efficiency, and the creation of user-friendly test cases. Moreover, Automator AI's versatility is highlighted, as it is specifically designed to cater to a diverse array of applications and testing scenarios. To initiate the journey with Automator AI, users need only log in to the platform. Once logged in, they can effortlessly create test scenarios using plain English prompts. The tool then takes charge, automating the testing process and offering users an accessible entry point into efficient and effective automation testing.",
+        "qas": [
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "What are the key benefits of using Automator AI?",
+                "answers": [
+                    {
+                        "text": "Key benefits include simplified automation testing, reduced reliance on coding, improved testing efficiency, and user-friendly test case creation.",
+                        "answer_start": 0
+                    },
+                    {
+                        "text": "Key benefits accompany the integration of Automator AI into the testing process, including simplified automation testing, a diminished reliance on coding, heightened testing efficiency, and the creation of user-friendly test cases.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "How can I get started with Automator AI?",
+                "answers": [
+                    {
+                        "text": "To initiate the journey with Automator AI, users need only log in to the platform. Once logged in, they can effortlessly create test scenarios using plain English prompts. The tool then takes charge, automating the testing process and offering users an accessible entry point into efficient and effective automation testing.",
+                        "answer_start": 383
+                    },
+                    {
+                        "text": "To get started, simply log in to the Automator AI platform, create your test scenarios in plain English, and let the tool automate the testing process for you.",
+                        "answer_start": 383
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": true,
+                "question": "When was Automator AI created?",
+                "answers": []
+            }
+        ]
+    }
+]
